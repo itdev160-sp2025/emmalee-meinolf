@@ -1,6 +1,5 @@
 # emmalee-meinolf
 
-//test
+//personal test
 
-//SSH Test
 
