@@ -1,0 +1,69 @@
+html{
+    background-color:#417AFF;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    color: #194C59;
+    background-color: #A9EEFF;
+    margin: 0 50px 10px 50px;    
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+}
+
+main{
+    display: inline-block;
+    padding: 10px;
+    font-size: 16pt;
+    text-align: center;
+    background-color: #CDF5FF;   
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+figure{
+    display: inline-block;
+    font-size: 14pt;    
+    text-align: center;
+    background-color:#85B9C6;
+    padding: 20px;
+}
+
+.car{
+
+    width: 800px;
+    height: 600px;
+}
+
+hr[class="break"]{
+    border-top: 5px solid #194C59;   
+}
+
+div{
+    background-color: #93B3FF;
+    padding: 10px;
+}
+
+
+img{
+    width: 400px;
+    height: 300px;
+}
+
+div[class="stars"]{
+    padding: 5px;
+    margin-bottom: 5px;   
+    display: table;
+
+}
+
+footer{
+
+    background-color: #A9EEFF;
+
+}
+
+
